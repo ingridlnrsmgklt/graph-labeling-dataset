@@ -9,10 +9,10 @@ graph/
     graph3.g6
     ...
 
-solution/
+solutions/
     graceful/
-    graceful antimagic/
-    graceful distance-antimagic/
+    graceful_antimagic/
+    graceful_distance-antimagic/
 
 ## Data Description
 
