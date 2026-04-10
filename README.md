@@ -12,7 +12,7 @@ graph/
 solution/
     graceful/
     graceful_antimagic/
-    graceful_distance-antimagic/
+    graceful_distance_antimagic/
 
 ## Data Description
 
