@@ -9,7 +9,7 @@ graph/
     graph3.g6
     ...
 
-solutions/
+solution/
     graceful/
     graceful_antimagic/
     graceful_distance-antimagic/
